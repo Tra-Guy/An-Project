@@ -1,6 +1,6 @@
 # An-Project
 This is just an Command prompt application.
-Basic idea of that program will be that we can create an basic user id in which specif object in form of anything including text can be saved and be uploaded or downloaded
+Basic idea of that program will be that we can create an basic user id in which specifc object in form of anything including text can be saved and be uploaded or downloaded
 I create a server in which information will be saved
 Stuff about that program:
 1) An interface in which people can create an unique id and password and save that in server as an object.
