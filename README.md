@@ -8,3 +8,4 @@ Stuff about that program:
 3) it can be uploaded or downloaded from server
 4) Even if we dont have access to the main id or account, we will have an unique code by which we can access that object.
 There are specific chance that later it will be converted to website. But for now i dont have any idea for any website for this idea
+AND language will be c# for that program
